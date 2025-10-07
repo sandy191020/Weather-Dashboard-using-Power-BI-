@@ -136,13 +136,4 @@ It effectively combines **real-time monitoring**, **forecast analysis**, and **e
 > 💡 *This project exemplifies end-to-end Power BI development — from API integration and data transformation to DAX modeling and dashboard design.*
 
 ---
-
-## 📷 Preview (Optional)
-
-> *(Insert screenshots or GIFs of your dashboard here — e.g., current weather cards, forecast trend chart, AQI gauge.)*
-
----
-
-
-
 **⭐ If you like this project, consider giving it a star on GitHub!**
