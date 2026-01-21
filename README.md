@@ -3,6 +3,7 @@
 An interactive **Power BI Dashboard** integrating **real-time** and **forecast weather data** from the **Weather API**, providing users with deep insights into climate conditions, air quality, and forecast trends across multiple cities.
 
 ---
+<img width="1155" height="641" alt="image" src="https://github.com/user-attachments/assets/b8e838f4-35dc-4fb6-b6ca-83dd0fc592dc" />
 
 ## 📊 Overview
 
